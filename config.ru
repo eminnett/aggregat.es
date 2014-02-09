@@ -1,3 +1,3 @@
 # encoding: UTF-8
-require "./app/aggregates"
+require "./lib/aggregates"
 run Aggregates::API
